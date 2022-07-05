@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "Annetuverter")
+    (title "Triple Annetuverter")
     (date "2022-07-05")
     (rev "1.0")
     (company "RobotDialogs")
