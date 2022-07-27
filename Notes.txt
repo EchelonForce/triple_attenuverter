@@ -1,0 +1,2 @@
+Issues on v1
+ - R5 and C2 are swapped on silkscreen! - marked all boards
